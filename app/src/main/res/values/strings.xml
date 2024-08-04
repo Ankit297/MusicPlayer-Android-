@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">Ankit Music</string>
+        <string name="album_art_description">Album artwork</string>
+        <string name="song_title_placeholder">Song Title</string>
+        <string name="artist_name_placeholder">Artist Name</string>
+        <string name="time_placeholder">0:00</string>
+        <string name="previous_track">Previous track</string>
+        <string name="next_track">Next track</string>
+        <string name="play_pause">Play or pause</string>
+        <string name="copyright_text">🚧 This App is currently under construction. Exciting updates coming soon! 🚀</string>
+    </resources>
